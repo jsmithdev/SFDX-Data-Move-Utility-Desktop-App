@@ -2,7 +2,7 @@
 
 - #### The plugin repository:   [https://github.com/forcedotcom/SFDX-Data-Move-Utility](https://github.com/forcedotcom/SFDX-Data-Move-Utility)
 - ##### For the detailed documentation, visit the project Wiki: [https://github.com/forcedotcom/SFDX-Data-Move-Utility/wiki)
-- ##### Download also the SFDMU Desktop GUI Application: [https://github.com/forcedotcom/SFDX-Data-Move-Utility-Desktop-App](https://github.com/forcedotcom/
+- ##### Download also the SFDMU Desktop GUI Application: [https://github.com/forcedotcom/SFDX-Data-Move-Utility-Desktop-App)
 
 ----
 
